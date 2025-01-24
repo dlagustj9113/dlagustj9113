@@ -2814,6 +2814,10 @@
                 "$type": "color",
                 "$value": "{colors.Background.base}"
               },
+              "disabled": {
+                "$type": "color",
+                "$value": "{colors.Background.base}"
+              },
               "hover": {
                 "$type": "color",
                 "$value": "{colors.Background.base}"
@@ -2855,6 +2859,10 @@
               "default": {
                 "$type": "color",
                 "$value": "{colors.Grayscale.70}"
+              },
+              "disabled": {
+                "$type": "color",
+                "$value": "{colors.Grayscale.60}"
               },
               "hover": {
                 "$type": "color",
@@ -4212,7 +4220,7 @@
             "inputbox": {
               "s": {
                 "$type": "dimension",
-                "$value": "{dimension.36}"
+                "$value": "{dimension.32}"
               },
               "m": {
                 "$type": "dimension",
