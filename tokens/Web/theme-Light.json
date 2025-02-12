@@ -4339,7 +4339,7 @@
           "height": {
             "s": {
               "$type": "dimension",
-              "$value": "{dimension.36}"
+              "$value": "{dimension.32}"
             },
             "m": {
               "$type": "dimension",
