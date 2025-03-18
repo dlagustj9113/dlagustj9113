@@ -2321,24 +2321,6 @@
         }
       },
       "Navigation": {
-        "breadcrumb": {
-          "default": {
-            "$type": "color",
-            "$value": "{colors.Grayscale.70}"
-          },
-          "active": {
-            "$type": "color",
-            "$value": "{colors.Grayscale.80}"
-          },
-          "hover": {
-            "$type": "color",
-            "$value": "{colors.Grayscale.70}"
-          },
-          "pressed": {
-            "$type": "color",
-            "$value": "{colors.Grayscale.70}"
-          }
-        },
         "navmenu": {
           "stroke": {
             "devide": {
@@ -3651,14 +3633,6 @@
             }
           }
         },
-        "breadcrumb": {
-          "gap": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.8}"
-            }
-          }
-        },
         "sidebar": {
           "height": {
             "s": {
@@ -4063,16 +4037,6 @@
         }
       },
       "Navigation": {
-        "breadcrumb": {
-          "default": {
-            "$type": "typography",
-            "$value": "{typographies.Links.s.regular}"
-          },
-          "active": {
-            "$type": "typography",
-            "$value": "{typographies.Links.s.bold}"
-          }
-        },
         "sidebar": {
           "title": {
             "default": {
