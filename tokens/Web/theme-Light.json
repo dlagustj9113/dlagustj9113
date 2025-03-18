@@ -1845,64 +1845,6 @@
             }
           }
         },
-        "checkchip": {
-          "icon": {
-            "unselect": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.60}"
-            },
-            "select": {
-              "$type": "color",
-              "$value": "{colors.Primary.50}"
-            },
-            "disabled": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.50}"
-            }
-          },
-          "stroke": {
-            "unselect": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.60}"
-            },
-            "select": {
-              "$type": "color",
-              "$value": "{colors.Primary.50}"
-            },
-            "disabled": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.40}"
-            }
-          },
-          "font": {
-            "unselect": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.90}"
-            },
-            "select": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.90}"
-            },
-            "disabled": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.50}"
-            }
-          },
-          "fill": {
-            "unselect": {
-              "$type": "color",
-              "$value": "{colors.Background.base}"
-            },
-            "select": {
-              "$type": "color",
-              "$value": "{colors.Background.layer2}"
-            },
-            "disabled": {
-              "$type": "color",
-              "$value": "{colors.Background.disabled}"
-            }
-          }
-        },
         "switch": {
           "bg": {
             "on": {
@@ -4077,50 +4019,6 @@
             }
           }
         },
-        "checkchip": {
-          "gap": {
-            "s": {
-              "$type": "dimension",
-              "$value": "{dimension.2}"
-            },
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.4}"
-            },
-            "l": {
-              "$type": "dimension",
-              "$value": "{dimension.8}"
-            }
-          },
-          "height": {
-            "s": {
-              "$type": "dimension",
-              "$value": "{dimension.28}"
-            },
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.32}"
-            },
-            "l": {
-              "$type": "dimension",
-              "$value": "{dimension.40}"
-            }
-          },
-          "padding": {
-            "s": {
-              "$type": "dimension",
-              "$value": "0rem 0.625rem 0rem 0.5rem"
-            },
-            "m": {
-              "$type": "dimension",
-              "$value": "0rem 0.75rem 0rem 0.625rem"
-            },
-            "l": {
-              "$type": "dimension",
-              "$value": "0rem 1rem 0rem 0.75rem"
-            }
-          }
-        },
         "switch": {
           "bg": {
             "height": {
@@ -4555,16 +4453,6 @@
                 "$value": "{dimension.28}"
               }
             },
-            "padding": {
-              "s": {
-                "$type": "dimension",
-                "$value": "0rem 0.25rem"
-              },
-              "m": {
-                "$type": "dimension",
-                "$value": "0rem 0.25rem"
-              }
-            },
             "gap": {
               "m": {
                 "$type": "dimension",
@@ -4850,6 +4738,14 @@
           }
         },
         "padding": {
+          "xs": {
+            "$type": "dimension",
+            "$value": "0.25rem 0.25rem"
+          },
+          "s": {
+            "$type": "dimension",
+            "$value": "1rem 1rem"
+          },
           "m": {
             "$type": "dimension",
             "$value": "1.25rem 1.25rem"
@@ -5404,20 +5300,6 @@
             "l": {
               "$type": "sizing",
               "$value": "{dimension.16}"
-            }
-          },
-          "checkchip": {
-            "s": {
-              "$type": "sizing",
-              "$value": "{dimension.16}"
-            },
-            "m": {
-              "$type": "sizing",
-              "$value": "{dimension.20}"
-            },
-            "l": {
-              "$type": "sizing",
-              "$value": "{dimension.24}"
             }
           },
           "searchform": {
