@@ -3694,20 +3694,6 @@
               }
             }
           }
-        },
-        "memo": {
-          "gap": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.10}"
-            },
-            "verticle": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.10}"
-              }
-            }
-          }
         }
       },
       "Popups": {
