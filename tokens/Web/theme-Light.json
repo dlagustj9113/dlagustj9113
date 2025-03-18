@@ -2318,20 +2318,6 @@
               "$value": "{colors.Grayscale.40}"
             }
           }
-        },
-        "attachedfile": {
-          "fill": {
-            "default": {
-              "$type": "color",
-              "$value": "{colors.Background.base}"
-            }
-          },
-          "stroke": {
-            "default": {
-              "$type": "color",
-              "$value": "{colors.Grayscale.40}"
-            }
-          }
         }
       },
       "Navigation": {
