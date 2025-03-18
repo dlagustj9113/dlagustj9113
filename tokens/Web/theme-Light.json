@@ -4212,13 +4212,9 @@
             "horizontal": {
               "s": {
                 "$type": "dimension",
-                "$value": "{dimension.4}"
-              },
-              "m": {
-                "$type": "dimension",
                 "$value": "{dimension.10}"
               },
-              "l": {
+              "m": {
                 "$type": "dimension",
                 "$value": "{dimension.12}"
               }
