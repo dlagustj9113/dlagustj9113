@@ -4257,16 +4257,6 @@
                 }
               }
             }
-          },
-          "margin": {
-            "verticle": {
-              "$type": "dimension",
-              "$value": "{dimension.20}"
-            },
-            "horizontal": {
-              "$type": "dimension",
-              "$value": "{dimension.30}"
-            }
           }
         },
         "attachedfile": {
@@ -4311,24 +4301,6 @@
               "$type": "dimension",
               "$value": "{dimension.16}"
             }
-          },
-          "gap": {
-            "verticle": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.16}"
-              }
-            },
-            "horizontal": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.16}"
-              },
-              "s": {
-                "$type": "dimension",
-                "$value": "{dimension.10}"
-              }
-            }
           }
         },
         "dropdown": {
@@ -4347,15 +4319,7 @@
             }
           },
           "padding": {
-            "s": {
-              "$type": "dimension",
-              "$value": "0rem 1rem"
-            },
             "m": {
-              "$type": "dimension",
-              "$value": "0rem 1rem"
-            },
-            "l": {
               "$type": "dimension",
               "$value": "0rem 1rem"
             }
@@ -4570,25 +4534,9 @@
             "l": {
               "$type": "dimension",
               "$value": "{dimension.10}"
-            },
-            "verticle": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.10}"
-              }
-            }
-          },
-          "height": {
-            "min": {
-              "$type": "dimension",
-              "$value": "1.875rem"
             }
           },
           "padding": {
-            "min": {
-              "$type": "dimension",
-              "$value": "{dimension.10}"
-            },
             "m": {
               "$type": "dimension",
               "$value": "{dimension.16}"
