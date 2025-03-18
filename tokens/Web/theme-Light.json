@@ -2340,74 +2340,6 @@
           }
         },
         "navmenu": {
-          "gnbmenu": {
-            "fill": {
-              "default": {
-                "$type": "color",
-                "$value": "{colors.Grayscale.0}"
-              },
-              "active": {
-                "$type": "color",
-                "$value": "{colors.Grayscale.0}"
-              },
-              "hover": {
-                "$type": "color",
-                "$value": "{colors.Grayscale.0}"
-              }
-            },
-            "font": {
-              "default": {
-                "$type": "color",
-                "$value": "{colors.Grayscale.70}"
-              },
-              "active": {
-                "$type": "color",
-                "$value": "{colors.Primary.50}"
-              },
-              "hover": {
-                "$type": "color",
-                "$value": "{colors.Grayscale.80}"
-              }
-            },
-            "textmenu": {
-              "light": {
-                "default": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.70}"
-                },
-                "active": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.80}"
-                },
-                "pressed": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.80}"
-                },
-                "hover": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.80}"
-                }
-              },
-              "dark": {
-                "default": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.20}"
-                },
-                "active": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.0}"
-                },
-                "pressed": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.0}"
-                },
-                "hover": {
-                  "$type": "color",
-                  "$value": "{colors.Grayscale.0}"
-                }
-              }
-            }
-          },
           "stroke": {
             "devide": {
               "light": {
@@ -4119,60 +4051,6 @@
             }
           }
         },
-        "navmenu": {
-          "gnbmenu": {
-            "height": {
-              "l": {
-                "$type": "dimension",
-                "$value": "{dimension.44}"
-              }
-            },
-            "padding": {
-              "s": {
-                "$type": "dimension",
-                "$value": "0rem 0.75rem"
-              },
-              "m": {
-                "$type": "dimension",
-                "$value": "0rem 1rem"
-              },
-              "l": {
-                "$type": "dimension",
-                "$value": "0rem 1.25rem"
-              }
-            },
-            "gap": {
-              "horizontal": {
-                "s": {
-                  "$type": "dimension",
-                  "$value": "{dimension.4}"
-                },
-                "m": {
-                  "$type": "dimension",
-                  "$value": "{dimension.8}"
-                },
-                "l": {
-                  "$type": "dimension",
-                  "$value": "{dimension.30}"
-                }
-              }
-            }
-          },
-          "sidebar": {
-            "padding": {
-              "m": {
-                "$type": "dimension",
-                "$value": "0rem 1rem"
-              }
-            },
-            "height": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.44}"
-              }
-            }
-          }
-        },
         "utilitymenu": {
           "gap": {
             "m": {
@@ -5227,62 +5105,6 @@
             }
           },
           "attachedfile": {
-            "m": {
-              "$type": "sizing",
-              "$value": "{dimension.20}"
-            }
-          }
-        },
-        "Navigation": {
-          "breadcrumb": {
-            "m": {
-              "$type": "sizing",
-              "$value": "{dimension.20}"
-            }
-          },
-          "menu": {
-            "gnbmunu": {
-              "s": {
-                "$type": "sizing",
-                "$value": "{dimension.16}"
-              },
-              "m": {
-                "$type": "sizing",
-                "$value": "{dimension.20}"
-              }
-            },
-            "sidebar": {
-              "s": {
-                "$type": "sizing",
-                "$value": "{dimension.16}"
-              },
-              "m": {
-                "$type": "sizing",
-                "$value": "{dimension.20}"
-              }
-            }
-          },
-          "utilitymenu": {
-            "s": {
-              "$type": "sizing",
-              "$value": "{dimension.16}"
-            },
-            "m": {
-              "$type": "sizing",
-              "$value": "{dimension.20}"
-            }
-          },
-          "pagenation": {
-            "m": {
-              "$type": "sizing",
-              "$value": "{dimension.16}"
-            }
-          },
-          "headermenu": {
-            "s": {
-              "$type": "sizing",
-              "$value": "{dimension.16}"
-            },
             "m": {
               "$type": "sizing",
               "$value": "{dimension.20}"
