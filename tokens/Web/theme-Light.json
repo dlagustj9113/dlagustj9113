@@ -4075,49 +4075,9 @@
               "$type": "dimension",
               "$value": "{dimension.48}"
             }
-          },
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.16}"
-            }
           }
         },
         "textfield": {
-          "gap": {
-            "label": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.2}"
-              }
-            },
-            "message": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.4}"
-              }
-            },
-            "vertical": {
-              "s": {
-                "$type": "dimension",
-                "$value": "{dimension.10}"
-              },
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.12}"
-              }
-            },
-            "horizontal": {
-              "s": {
-                "$type": "dimension",
-                "$value": "{dimension.10}"
-              },
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.12}"
-              }
-            }
-          },
           "height": {
             "inputbox": {
               "s": {
@@ -4131,28 +4091,6 @@
               "l": {
                 "$type": "dimension",
                 "$value": "{dimension.48}"
-              }
-            }
-          },
-          "padding": {
-            "inputbox": {
-              "s": {
-                "$type": "dimension",
-                "$value": "0rem 0.875rem"
-              },
-              "m": {
-                "$type": "dimension",
-                "$value": "0rem 1rem"
-              },
-              "textarea": {
-                "s": {
-                  "$type": "dimension",
-                  "$value": "0.875rem 0.875rem"
-                },
-                "m": {
-                  "$type": "dimension",
-                  "$value": "1rem 1rem"
-                }
               }
             }
           }
@@ -4193,14 +4131,6 @@
             }
           }
         },
-        "fileupload": {
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.16}"
-            }
-          }
-        },
         "dropdown": {
           "height": {
             "s": {
@@ -4214,12 +4144,6 @@
             "l": {
               "$type": "dimension",
               "$value": "{dimension.48}"
-            }
-          },
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "0rem 1rem"
             }
           }
         }
