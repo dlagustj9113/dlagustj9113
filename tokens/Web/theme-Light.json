@@ -4357,14 +4357,6 @@
         }
       },
       "Popups": {
-        "alert": {
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.20}"
-            }
-          }
-        },
         "modal": {
           "width": {
             "m": {
