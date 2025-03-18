@@ -4366,38 +4366,10 @@
           }
         },
         "modal": {
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.24}"
-            }
-          },
           "width": {
             "m": {
               "$type": "dimension",
               "$value": "{dimension.560}"
-            }
-          }
-        },
-        "popup": {
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.24}"
-            }
-          },
-          "gap": {
-            "verticle": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.32}"
-              }
-            }
-          },
-          "width": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.448}"
             }
           }
         }
