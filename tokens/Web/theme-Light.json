@@ -4147,24 +4147,6 @@
         }
       },
       "Containers": {
-        "table": {
-          "gap": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.4}"
-            },
-            "l": {
-              "$type": "dimension",
-              "$value": "{dimension.10}"
-            }
-          },
-          "padding": {
-            "m": {
-              "$type": "dimension",
-              "$value": "{dimension.16}"
-            }
-          }
-        },
         "card": {
           "cardbadge": {
             "height": {
