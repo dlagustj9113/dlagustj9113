@@ -4786,24 +4786,6 @@
             "m": {
               "$type": "dimension",
               "$value": "{dimension.24}"
-            },
-            "l": {
-              "$type": "dimension",
-              "$value": "{dimension.30}"
-            }
-          },
-          "gap": {
-            "verticle": {
-              "m": {
-                "$type": "dimension",
-                "$value": "{dimension.32}"
-              }
-            },
-            "horizontal": {
-              "s": {
-                "$type": "dimension",
-                "$value": "{dimension.10}"
-              }
             }
           },
           "width": {
